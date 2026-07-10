@@ -15,7 +15,7 @@ const produtos = [
     categoria: "ferramentas",
     tipo: "oferta",
     destaque: true,
-    imagem: "images/produtos/caddy.jpeg",
+    imagem: "images/produtos/Caddy.jpeg",
     link: "https://meli.la/1eBqqHv"
 },
 
