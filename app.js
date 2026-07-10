@@ -144,7 +144,7 @@ const produtos = [
     categoria: "hidraulica",
     tipo: "recomendado",
     destaque: true,
-    imagem: "images/produtos/torneira gourmet.jpeg",
+    imagem: "images/produtos/Torneira Gourmet.jpeg",
     link: "https://meli.la/1dPUN1n"
 },
 {
