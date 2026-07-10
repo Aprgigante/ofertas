@@ -93,7 +93,7 @@ const produtos = [
 },
 {
     nome: "Kit 12 Jogo Chaves Isoladas Imã Fenda E Phillips Eletricista",
-    preco: 45.00,
+    preco: 48.87,
     categoria: "eletrica",
     tipo: "vendido",
     destaque: false,
