@@ -149,7 +149,7 @@ const produtos = [
 },
 {
     nome: "Alicate Pressão Chave Inglesa Grifo Profissional Hidráulica",
-    preco: 65.86,
+    preco: 69.00,
     categoria: "hidraulica",
     tipo: "recomendado",
     destaque: true,
