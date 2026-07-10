@@ -47,7 +47,7 @@ const produtos = [
     link: "https://meli.la/1QSvQJJ"
 },
 {
-    nome: "Serra Mármore 4.3/8 1300w C/ 2discos 4100NH3ZX2 Makita.jpeg",
+    nome: "Serra Mármore 4.3/8 1300w C/ 2discos 4100NH3ZX2 Makita",
     preco: 330.51,
     categoria: "ferramentas",
     tipo: "vendido",
