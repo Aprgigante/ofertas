@@ -206,7 +206,7 @@ const produtos = [
 
 {
     nome: "Martelete Rompedor Perfurador Profissional Sds-plus 1100w",
-    preco: 367.90,
+    preco: 433.10,
     categoria: "construcao",
     tipo: "oferta",
     destaque: true,
