@@ -154,7 +154,7 @@ const produtos = [
     tipo: "recomendado",
     destaque: true,
     imagem: "images/produtos/Alicate Pressão Chave Inglesa Grifo Profissional Hidráulica.jpeg",
-    link: "https://meli.la/2detZbu"
+    link: "https://meli.la/1GSDGVG"
 },
  {
     nome: "Rebarbador Escariador Manual Tubo Cobre Alumínio Acabamento",
