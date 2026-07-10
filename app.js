@@ -52,7 +52,7 @@ const produtos = [
     categoria: "ferramentas",
     tipo: "vendido",
     destaque: true,
-    imagem: "Images/Produtos/Serra Mármore 4.38 1300w C 2discos 4100NH3ZX2 Makita.jpeg",
+    imagem: "images/produtos/Serra Mármore 4.38 1300w C 2discos 4100NH3ZX2 Makita.jpeg",
     link: "https://meli.la/18xZoX5"
 },
 {
