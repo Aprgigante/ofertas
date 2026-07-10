@@ -120,7 +120,7 @@ const produtos = [
 },
 {
     nome: "Chuveiro Elétrico",
-    preco: 99.00,
+    preco: 116.91,
     categoria: "eletrica",
     tipo: "recomendado",
     destaque: true,
