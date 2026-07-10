@@ -48,7 +48,7 @@ const produtos = [
 },
 {
     nome: "Serra Mármore 4.3/8 1300w C/ 2discos 4100NH3ZX2 Makita",
-    preco: 330.51,
+    preco: 349.00,
     categoria: "ferramentas",
     tipo: "vendido",
     destaque: true,
