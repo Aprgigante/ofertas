@@ -211,7 +211,7 @@ const produtos = [
     tipo: "oferta",
     destaque: true,
     imagem: "images/produtos/Martelete Rompedor Perfurador Profissional Sds-plus 1100w.jpeg",
-    link: "https://meli.la/1oee5t8"
+    link: "https://meli.la/31BUKP1"
 },
 
 {
