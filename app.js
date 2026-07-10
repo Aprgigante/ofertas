@@ -102,7 +102,7 @@ const produtos = [
 },
 {
     nome: "Alicate Amperímetro Brasfort",
-    preco: 48.50,
+    preco: 47.94,
     categoria: "eletrica",
     tipo: "vendido",
     destaque: false,
