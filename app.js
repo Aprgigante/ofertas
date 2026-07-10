@@ -30,7 +30,7 @@ const produtos = [
 },
 {
     nome: "Furadeira Industrial Impacto Rev 450w Gsb 450 Re Bosch + Kit",
-    preco: 299.90,
+    preco: 359.90,
     categoria: "ferramentas",
     tipo: "vendido",
     destaque: true,
