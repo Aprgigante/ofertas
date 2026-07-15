@@ -28,6 +28,15 @@ const produtos = [
     imagem: "images/produtos/Parafusadeira Furadeira De Impacto The Black Tools Profissional TB-21PX 2 Baterias Com Maleta 60Hz Amarelo.jpeg",
     link: "https://meli.la/124W3TA"
 },
+    {
+    nome: "Chave Soquete Ajustável Multifuncional Catraca 10 A 19mm",
+    preco: 37.03,
+    categoria: "ferramentas",
+    tipo: "vendido",
+    destaque: true,
+    imagem: "images/produtos/Chave Soquete Ajustável Multifuncional Catraca 10 A 19mm.jpeg",
+    link: "https://meli.la/2e12GYQ"
+},
 {
     nome: "Furadeira Industrial Impacto Rev 450w Gsb 450 Re Bosch + Kit",
     preco: 359.90,
