@@ -291,7 +291,7 @@ alt="${produto.nome}"
 <h3>${produto.nome}</h3>
 
 <p class="preco">
-R$ ${produto.preco.toFixed(2)}
+${produto.preco.toFixed(2)}
 </p>
 
 <a
