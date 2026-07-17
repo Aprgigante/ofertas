@@ -235,7 +235,7 @@ const produtos = [
 
 {
     nome: "Desempenadeira Aço Dentada Com Regulagem 430mm X 120mm",
-    preco: 55.90,
+    preco: 54.22,
     categoria: "construcao",
     tipo: "oferta",
     destaque: true,
