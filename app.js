@@ -11,7 +11,7 @@ const produtos = [
 
 {
     nome: "Case Adaptador Caddy HD 9,5mm",
-    preco: 15.42,
+    preco: 19.00,
     categoria: "ferramentas",
     tipo: "oferta",
     destaque: true,
