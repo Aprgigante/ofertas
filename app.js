@@ -11,7 +11,7 @@ const produtos = [
 
 {
     nome: "Case Adaptador Caddy HD 9,5mm",
-    preco: Consulte o Preço Atualizado,
+    preco: 'Consulte o Preço Atualizado',
     categoria: "ferramentas",
     tipo: "oferta",
     destaque: true,
