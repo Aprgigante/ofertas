@@ -119,13 +119,13 @@ const produtos = [
     link: "https://meli.la/1oRPamy"
 },
 {
-    nome: "Guia Passa Fios Eletricista Sonda Ferramenta Com Alma Aco",
+    nome: "Guia Passa Fios C/ 20 Metros Pvc Com Alma De Aço Vonder",
     preco: 29.00,
     categoria: "eletrica",
     tipo: "vendido",
     destaque: false,
     imagem: "images/produtos/Passa Fio Alma de Aço.jpeg",
-    link: "https://meli.la/2w2Mu73"
+    link: "https://meli.la/1bcSVwY"
 },
 {
     nome: "Chuveiro Elétrico",
