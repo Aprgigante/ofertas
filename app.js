@@ -194,7 +194,7 @@ const produtos = [
 },
 
 {
-    nome: "Carrinho De Mão Extra Forte 65 Litros 77714435 Tramontina Cor Cinza Claro",
+    nome: "Carrinho De Mão Extra Forte 65 Litros  Tramontina Cor Cinza Claro",
     preco: 385.19,
     categoria: "construcao",
     tipo: "oferta",
