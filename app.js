@@ -11,7 +11,7 @@ const produtos = [
 
 {
     nome: "Case Adaptador Caddy HD 9,5mm",
-    preco: 'Consulte o Preço Atualizado',
+    preco: 19.00,
     categoria: "ferramentas",
     tipo: "oferta",
     destaque: true,
@@ -291,7 +291,7 @@ alt="${produto.nome}"
 <h3>${produto.nome}</h3>
 
 <p class="preco">
-${produto.preco.toFixed(2)}
+R$${produto.preco.toFixed(2)}
 </p>
 
 <a
