@@ -138,13 +138,13 @@ const produtos = [
 },
 
 {
-    nome: "Jogo De Bits 50 Peças Magnético Ponteira.jpeg",
+    nome: "Bits Jogo 50 Ponteira Aço Parafusadeira Sextavado Torx Ima",
     preco: 54.10,
     categoria: "ferramentas",
     tipo: "vendido",
     destaque: false,
     imagem: "images/produtos/Jogo De Bits 50 Peças Magnético Ponteira.jpeg",
-    link: "https://meli.la/2KfL8V5"
+    link: "https://meli.la/2aN8W1h"
 },
 
 {
