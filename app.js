@@ -279,8 +279,8 @@ return `
 <div class="produto">
 
 ${produto.destaque
-? '<div class="selo">🔥 OFERTA</div>'
-: ''
+    ? '<div class="selo">🔥 OFERTA</div>'
+    : ''
 }
 
 <img
@@ -291,21 +291,16 @@ alt="${produto.nome}"
 <h3>${produto.nome}</h3>
 
 <p class="preco">
-R$ ${produto.preco.toFixed(2)}
+    💲 Consulte o preço atualizado
 </p>
 
-<a
-href="${produto.link}"
-target="_blank">
-
-Ver Oferta
-
+<a href="${produto.link}" target="_blank" class="botao">
+    Ver Oferta
 </a>
 
 </div>
 
 `;
-
 }
 
 // =========================
