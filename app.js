@@ -29,7 +29,7 @@ const produtos = [
     link: "https://meli.la/124W3TA"
 },
     {
-    nome: "Chave Soquete Ajustável Multifuncional Catraca 10 A 19mm",
+    nome: "Chave Soquete Ajustável Multifuncional Catraca 10 A 19 mm",
     preco: 37.03,
     categoria: "ferramentas",
     tipo: "vendido",
