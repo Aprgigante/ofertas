@@ -138,6 +138,15 @@ const produtos = [
 },
 
 {
+    nome: "Scanner Parede Detector Metal Cano Agua Fio Tubo Pvc Madeira",
+    preco: 247.48,
+    categoria: "ferramentas",
+    tipo: "vendido",
+    destaque: false,
+    imagem: "images/produtos/Scanner Parede Detector Metal Cano Agua Fio Tubo Pvc Madeira.jpeg",
+    link: "https://meli.la/1hPy7Z5"
+},
+
     nome: "Bits Jogo 50 Ponteira Aço Parafusadeira Sextavado Torx Ima",
     preco: 54.10,
     categoria: "ferramentas",
