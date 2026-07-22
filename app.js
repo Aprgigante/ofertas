@@ -18,7 +18,6 @@ const produtos = [
     imagem: "images/produtos/Caddy.jpeg",
     link: "https://meli.la/1eBqqHv"
 },
-
 {
     nome: "Parafusadeira Furadeira De Impacto The Black Tools Profissional TB-21PX 2 Baterias Com Maleta 60Hz Amarelo",
     preco: 168.00,
@@ -28,7 +27,7 @@ const produtos = [
     imagem: "images/produtos/Parafusadeira Furadeira De Impacto The Black Tools Profissional TB-21PX 2 Baterias Com Maleta 60Hz Amarelo.jpeg",
     link: "https://meli.la/124W3TA"
 },
-    {
+{
     nome: "Chave Soquete Ajustável Multifuncional Catraca 10 A 19 mm",
     preco: 37.03,
     categoria: "ferramentas",
@@ -136,7 +135,6 @@ const produtos = [
     imagem: "images/produtos/Chuveiro Elétrico.jpeg",
     link: "https://meli.la/2a6mKbW"
 },
-
 {
     nome: "Scanner Parede Detector Metal Cano Agua Fio Tubo Pvc Madeira",
     preco: 247.48,
@@ -155,7 +153,6 @@ const produtos = [
     imagem: "images/produtos/Jogo De Bits 50 Peças Magnético Ponteira.jpeg",
     link: "https://meli.la/2aN8W1h"
 },
-
 {
     nome: "Torneira Gourmet Monocomando Cozinha Luxo Mesa Com Mola Super Com Corpo Em Metal Premium Altissima Qualidade",
     preco: 108.16,
@@ -174,7 +171,7 @@ const produtos = [
     imagem: "images/produtos/Alicate Pressão Chave Inglesa Grifo Profissional Hidráulica.jpeg",
     link: "https://meli.la/1GSDGVG"
 },
- {
+{
     nome: "Rebarbador Escariador Manual Tubo Cobre Alumínio Acabamento",
     preco: 25.35,
     categoria: "hidraulica",
@@ -201,7 +198,6 @@ const produtos = [
     imagem: "images/produtos/Alicate Bomba D Agua 250mm 10 Gedore.jpeg",
     link: "https://meli.la/2hCx1Kn"
 },
-
 {
     nome: "Carrinho De Mão Extra Forte 65 Litros  Tramontina Cor Cinza Claro",
     preco: 385.19,
@@ -211,7 +207,6 @@ const produtos = [
     imagem: "images/produtos/Carrinho De Mão Extra Forte 65 Litros 77714435 Tramontina Cor Cinza Claro.jpeg",
     link: "https://meli.la/1mLXYyf"
 },
-
 {
     nome: "Nível a Laser Verde 2 Linhas Com Tripé Para Profissional Autonivelante",
     preco: 126.07,
@@ -221,7 +216,6 @@ const produtos = [
     imagem: "images/produtos/Nível a Laser Verde 2 Linhas Com Tripé Para Profissional Autonivelante.jpeg",
     link: "https://meli.la/2b9UQcS"
 },
-
 {
     nome: "Martelete Perfurador Rompedor Professional 26mm 1100w Sds Plus 4j Com Acessorios Trm-2000 The Black Tools",
     preco: 433.10,
@@ -231,7 +225,6 @@ const produtos = [
     imagem: "images/produtos/Martelete Rompedor Perfurador Profissional Sds-plus 1100w.jpeg",
     link: "https://meli.la/18c8cku"
 },
-
 {
     nome: "Pneu Carrinho De Mão Não Fura Maciço Completo Universal Fb",
     preco: 72.40,
@@ -241,7 +234,6 @@ const produtos = [
     imagem: "images/produtos/Pneu Carrinho De Mão Não Fura Maciço Completo  Universal Fb.jpeg",
     link: "https://meli.la/2QL9dkX"
 },
-
 {
     nome: "Desempenadeira Aço Dentada Com Regulagem 430mm X 120mm",
     preco: 54.22,
@@ -251,7 +243,6 @@ const produtos = [
     imagem: "images/produtos/Desempenadeira Aço Dentada Com Regulagem 430mm X 120mm.jpeg",
     link: "https://meli.la/18DezuE"
 },
-
 {
     nome: "Alicate Torquês Turquesa Armador Profissional 12 Aço",
     preco: 51.31,
