@@ -172,6 +172,15 @@ const produtos = [
     link: "https://meli.la/2uVkWYK"
 },
 {
+    nome: "Níveis Bolhas Dobrável Magnético Multiuso Profissional 60cm",
+    preco: 77.99,
+    categoria: "ferramentas",
+    tipo: "vendido",
+    destaque: false,
+    imagem: "images/produtos/Níveis Bolhas Dobrável Magnético Multiuso Profissional 60cm.jpeg",
+    link: "https://meli.la/28YFXnc"
+},
+{
     nome: "Torneira Gourmet Monocomando Cozinha Luxo Mesa Com Mola Super Com Corpo Em Metal Premium Altissima Qualidade",
     preco: 108.16,
     categoria: "hidraulica",
