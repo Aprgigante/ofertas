@@ -163,6 +163,15 @@ const produtos = [
     link: "https://meli.la/2yNxK7E"
 },
 {
+    nome: "Pegador Para Blocos De Concreto E Tijolos Vonder",
+    preco: 69.44,
+    categoria: "ferramentas",
+    tipo: "vendido",
+    destaque: false,
+    imagem: "images/produtos/Pegador Para Blocos De Concreto E Tijolos Vonder.jpeg",
+    link: "https://meli.la/2uVkWYK"
+},
+{
     nome: "Torneira Gourmet Monocomando Cozinha Luxo Mesa Com Mola Super Com Corpo Em Metal Premium Altissima Qualidade",
     preco: 108.16,
     categoria: "hidraulica",
