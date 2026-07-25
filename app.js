@@ -191,7 +191,7 @@ const produtos = [
 },
 {
     nome: "Gabarito Caixa Meia Esquadria Serrote Costa 30 cm Idea",
-    preco: 39.80,
+    preco: 38.90,
     categoria: "construcao",
     tipo: "vendido",
     destaque: false,
