@@ -199,6 +199,15 @@ const produtos = [
     link: "https://meli.la/13FDaSq"
 },
 {
+    nome: "Gabarito Copiador Modelador Contornos Azulejo Cerâmica Piso",
+    preco: 41.00,
+    categoria: "construcao",
+    tipo: "vendido",
+    destaque: false,
+    imagem: "images/produtos/Gabarito Copiador Modelador Contornos Azulejo Cerâmica Piso.jpeg",
+    link: "https://meli.la/1wRJPTU"
+},
+{
     nome: "Rodo Desempenadeira Dentada 60 X 12 Cm Dentes De 15mm",
     preco: 47.92,
     categoria: "construcao",
