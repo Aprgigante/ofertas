@@ -190,6 +190,15 @@ const produtos = [
     link: "https://meli.la/2uVkWYK"
 },
 {
+    nome: "Gabarito Caixa Meia Esquadria Serrote Costa 30 cm Idea",
+    preco: 39.80,
+    categoria: "construcao",
+    tipo: "vendido",
+    destaque: false,
+    imagem: "images/produtos/Gabarito Caixa Meia Esquadria Serrote Costa 30 cm Idea.jpeg",
+    link: "https://meli.la/13FDaSq"
+},
+{
     nome: "Rodo Desempenadeira Dentada 60 X 12 Cm Dentes De 15mm",
     preco: 47.92,
     categoria: "construcao",
