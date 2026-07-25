@@ -172,6 +172,15 @@ const produtos = [
     link: "https://meli.la/2ZLNSMn"
 },
 {
+    nome: "Esquadro Gabarito Marcação Angulo Corte Dobra Metalon Perfil Prateado",
+    preco: 29.99,
+    categoria: "ferramentas",
+    tipo: "vendido",
+    destaque: false,
+    imagem: "images/produtos/Esquadro Gabarito Marcação Angulo Corte Dobra Metalon Perfil Prateado.jpeg",
+    link: "https://meli.la/1k4ZXkV"
+},
+{
     nome: "Pegador Para Blocos De Concreto E Tijolos Vonder",
     preco: 69.44,
     categoria: "construcao",
