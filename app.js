@@ -154,6 +154,15 @@ const produtos = [
     link: "https://meli.la/2aN8W1h"
 },
 {
+    nome: "Dobradeira Estribo Reforçada Vergalhão 10mm Até 40cm",
+    preco: 129.19,
+    categoria: "ferramentas",
+    tipo: "vendido",
+    destaque: false,
+    imagem: "images/produtos/Dobradeira Estribo Reforçada Vergalhão 10mm Até 40cm.jpeg",
+    link: "https://meli.la/2yNxK7E"
+},
+{
     nome: "Torneira Gourmet Monocomando Cozinha Luxo Mesa Com Mola Super Com Corpo Em Metal Premium Altissima Qualidade",
     preco: 108.16,
     categoria: "hidraulica",
