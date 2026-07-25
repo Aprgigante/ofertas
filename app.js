@@ -163,9 +163,18 @@ const produtos = [
     link: "https://meli.la/2yNxK7E"
 },
 {
+    nome: "Pistola De Fixação Finca Pino Manual Rebites + Acessórios",
+    preco: 61.11,
+    categoria: "ferramentas",
+    tipo: "vendido",
+    destaque: false,
+    imagem: "images/produtos/Pistola De Fixação Finca Pino Manual Rebites + Acessórios.jpeg",
+    link: "https://meli.la/2ZLNSMn"
+},
+{
     nome: "Pegador Para Blocos De Concreto E Tijolos Vonder",
     preco: 69.44,
-    categoria: "ferramentas",
+    categoria: "construcao",
     tipo: "vendido",
     destaque: false,
     imagem: "images/produtos/Pegador Para Blocos De Concreto E Tijolos Vonder.jpeg",
@@ -174,7 +183,7 @@ const produtos = [
 {
     nome: "Níveis Bolhas Dobrável Magnético Multiuso Profissional 60cm",
     preco: 77.99,
-    categoria: "ferramentas",
+    categoria: "construcao",
     tipo: "vendido",
     destaque: false,
     imagem: "images/produtos/Níveis Bolhas Dobrável Magnético Multiuso Profissional 60cm.jpeg",
