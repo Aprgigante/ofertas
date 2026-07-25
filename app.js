@@ -235,6 +235,15 @@ const produtos = [
     link: "https://meli.la/1dPUN1n"
 },
 {
+    nome: "Cortador Tubo Pvc Cano Frio Mang Alicate Ferramenta Profissional",
+    preco: 67.99,
+    categoria: "hidraulica",
+    tipo: "recomendado",
+    destaque: true,
+    imagem: "images/produtos/Cortador Tubo Pvc Cano Frio Mang Alicate Ferramenta Profissional.jpeg",
+    link: "https://meli.la/1FP6VMP"
+},
+{
     nome: "Alicate Pressão Chave Inglesa Grifo Profissional Hidráulica",
     preco: 69.00,
     categoria: "hidraulica",
