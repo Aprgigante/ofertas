@@ -181,6 +181,15 @@ const produtos = [
     link: "https://meli.la/2uVkWYK"
 },
 {
+    nome: "Rodo Desempenadeira Dentada 60 X 12 Cm Dentes De 15mm",
+    preco: 69.44,
+    categoria: "construcao",
+    tipo: "vendido",
+    destaque: false,
+    imagem: "images/produtos/Rodo Desempenadeira Dentada 60 X 12 Cm Dentes De 15mm.jpeg",
+    link: "https://meli.la/1NGsHam"
+},
+{
     nome: "Níveis Bolhas Dobrável Magnético Multiuso Profissional 60cm",
     preco: 77.99,
     categoria: "construcao",
