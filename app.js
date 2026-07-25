@@ -182,7 +182,7 @@ const produtos = [
 },
 {
     nome: "Rodo Desempenadeira Dentada 60 X 12 Cm Dentes De 15mm",
-    preco: 69.44,
+    preco: 47.92,
     categoria: "construcao",
     tipo: "vendido",
     destaque: false,
