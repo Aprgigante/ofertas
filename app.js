@@ -226,6 +226,15 @@ const produtos = [
     link: "https://meli.la/28YFXnc"
 },
 {
+    nome: "Regua Multi Ângulos Para Cortar Piso Azulejo Azulegista Tita",
+    preco: 29.29,
+    categoria: "construcao",
+    tipo: "vendido",
+    destaque: false,
+    imagem: "images/produtos/Regua Multi Ângulos Para Cortar Piso Azulejo Azulegista Tita.jpeg",
+    link: "https://meli.la/1wUF5CT"
+},
+{
     nome: "Torneira Gourmet Monocomando Cozinha Luxo Mesa Com Mola Super Com Corpo Em Metal Premium Altissima Qualidade",
     preco: 108.16,
     categoria: "hidraulica",
