@@ -235,6 +235,15 @@ const produtos = [
     link: "https://meli.la/1imVHQb"
 },
 {
+    nome: "Extrator Sacador De Rosca Tubo Quebrado Ferramenta Universal",
+    preco: 39.00,
+    categoria: "hidraulica",
+    tipo: "vendido",
+    destaque: false,
+    imagem: "images/produtos/Extrator Sacador De Rosca Tubo Quebrado Ferramenta Universal.jpeg",
+    link: "https://meli.la/2AkoVVp"
+},
+{
     nome: "Broca Escalonada Cone De 4 A 32mm De Aço Rapido Espiral",
     preco: 37.29,
     categoria: "ferramentas",
@@ -242,6 +251,15 @@ const produtos = [
     destaque: false,
     imagem: "images/produtos/Broca Escalonada Cone De 4 A 32mm De Aço Rapido Espiral.jpeg",
     link: "https://meli.la/2UMpgJz"
+},
+{
+    nome: "Maquina Assentar Pisos Porcelanatos Elétrica Com Ventosa Até 50kg A Bateria 21v Ttm21b The Black Tools",
+    preco: 288.00,
+    categoria: "ferramentas",
+    tipo: "vendido",
+    destaque: false,
+    imagem: "images/produtos/Maquina Assentar Pisos Porcelanatos Elétrica Com Ventosa Até 50kg A Bateria 21v Ttm21b The Black Tools.jpeg",
+    link: "https://meli.la/1pD2ae8"
 },
 {
     nome: "Pegador Para Blocos De Concreto E Tijolos Vonder",
