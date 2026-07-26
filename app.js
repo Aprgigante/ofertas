@@ -190,6 +190,15 @@ const produtos = [
     link: "https://meli.la/1B5ex3c"
 },
 {
+    nome: "Gabarito Afiador De Broca Esmerilhadeira",
+    preco: 24.00,
+    categoria: "ferramentas",
+    tipo: "vendido",
+    destaque: false,
+    imagem: "images/produtos/Gabarito Afiador De Broca Esmerilhadeira.jpeg",
+    link: "https://meli.la/2dQbTNs"
+},
+{
     nome: "Esquadro Gabarito Marcação Angulo Corte Dobra Metalon Perfil Prateado",
     preco: 29.99,
     categoria: "ferramentas",
