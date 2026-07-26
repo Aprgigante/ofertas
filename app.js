@@ -181,6 +181,15 @@ const produtos = [
     link: "https://meli.la/1k4ZXkV"
 },
 {
+    nome: "Raspador Plaina Placas Gesso Drywall Madeira 6 Polegadas  Acabamento Bordas Lâmina 65mm ABS Profissional Gesso Acartonado",
+    preco: 45.99,
+    categoria: "ferramentas",
+    tipo: "vendido",
+    destaque: false,
+    imagem: "images/produtos/Raspador Plaina Placas Gesso Drywall Madeira 6 Polegadas  Acabamento Bordas Lâmina 65mm ABS Profissional Gesso Acartonado",
+    link: "https://meli.la/1G5TxTe"
+},
+{
     nome: "Broca Escalonada Cone De 4 A 32mm De Aço Rapido Espiral",
     preco: 37.29,
     categoria: "ferramentas",
