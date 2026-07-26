@@ -190,6 +190,15 @@ const produtos = [
     link: "https://meli.la/1G5TxTe"
 },
 {
+    nome: "Chave Hidráulica Multifuncional Pias Canos 8x1 Com Nível",
+    preco: 27.89,
+    categoria: "ferramentas",
+    tipo: "vendido",
+    destaque: false,
+    imagem: "images/produtos/Chave Hidráulica Multifuncional Pias Canos 8x1 Com Nível.jpeg",
+    link: "https://meli.la/1imVHQb"
+},
+{
     nome: "Broca Escalonada Cone De 4 A 32mm De Aço Rapido Espiral",
     preco: 37.29,
     categoria: "ferramentas",
