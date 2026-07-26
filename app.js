@@ -219,7 +219,7 @@ const produtos = [
 {
     nome: "Chave Hidráulica Multifuncional Pias Canos 8x1 Com Nível",
     preco: 27.89,
-    categoria: "ferramentas",
+    categoria: "hidraulica",
     tipo: "vendido",
     destaque: false,
     imagem: "images/produtos/Chave Hidráulica Multifuncional Pias Canos 8x1 Com Nível.jpeg",
