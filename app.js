@@ -181,6 +181,15 @@ const produtos = [
     link: "https://meli.la/32ZoAoh"
 },
 {
+    nome: "Afiador de Brocas Evotek Ferramentas Portátil 2mm a 12,5mm",
+    preco: 19.39,
+    categoria: "ferramentas",
+    tipo: "vendido",
+    destaque: false,
+    imagem: "images/produtos/Afiador de Brocas Evotek Ferramentas Portátil 2mm a 12,5mm.jpeg",
+    link: "https://meli.la/1B5ex3c"
+},
+{
     nome: "Esquadro Gabarito Marcação Angulo Corte Dobra Metalon Perfil Prateado",
     preco: 29.99,
     categoria: "ferramentas",
