@@ -186,7 +186,7 @@ const produtos = [
     categoria: "ferramentas",
     tipo: "vendido",
     destaque: false,
-    imagem: "images/produtos/Raspador Plaina Placas Gesso Drywall Madeira 6 Polegadas  Acabamento Bordas Lâmina 65mm ABS Profissional Gesso Acartonado",
+    imagem: "images/produtos/Raspador Plaina Placas Gesso Drywall Madeira 6 Polegadas  Acabamento Bordas Lâmina 65mm ABS Profissional Gesso Acartonado.jpeg",
     link: "https://meli.la/1G5TxTe"
 },
 {
