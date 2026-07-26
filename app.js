@@ -172,12 +172,12 @@ const produtos = [
     link: "https://meli.la/2ZLNSMn"
 },
 {
-    nome: "Adaptador Angular Magnético Para Furadeira Parafusadeira 105",
+    nome: "Adaptador Angular Magnético Para Furadeira Parafusadeira 105 Graus",
     preco: 21.29,
     categoria: "ferramentas",
     tipo: "vendido",
     destaque: false,
-    imagem: "images/produtos/Adaptador Angular Magnético Para Furadeira Parafusadeira 105.jpeg",
+    imagem: "images/produtos/Adaptador Angular Magnético Para Furadeira Parafusadeira 105 Graus.jpeg",
     link: "https://meli.la/32ZoAoh"
 },
 {
