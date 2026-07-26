@@ -181,6 +181,15 @@ const produtos = [
     link: "https://meli.la/1k4ZXkV"
 },
 {
+    nome: "Broca Escalonada Cone De 4 A 32mm De Aço Rapido Espiral",
+    preco: 37.29,
+    categoria: "ferramentas",
+    tipo: "vendido",
+    destaque: false,
+    imagem: "images/produtos/Broca Escalonada Cone De 4 A 32mm De Aço Rapido Espiral.jpeg",
+    link: "https://meli.la/2UMpgJz"
+},
+{
     nome: "Pegador Para Blocos De Concreto E Tijolos Vonder",
     preco: 69.44,
     categoria: "construcao",
