@@ -172,6 +172,15 @@ const produtos = [
     link: "https://meli.la/2ZLNSMn"
 },
 {
+    nome: "Adaptador Angular Magnético Para Furadeira Parafusadeira 105°",
+    preco: 21.29,
+    categoria: "ferramentas",
+    tipo: "vendido",
+    destaque: false,
+    imagem: "images/produtos/Adaptador Angular Magnético Para Furadeira Parafusadeira 105°.jpeg",
+    link: "https://meli.la/32ZoAoh"
+},
+{
     nome: "Esquadro Gabarito Marcação Angulo Corte Dobra Metalon Perfil Prateado",
     preco: 29.99,
     categoria: "ferramentas",
@@ -191,7 +200,7 @@ const produtos = [
 },
 {
     nome: "Chave Tigre Com 8 Bocas Universal 48 Em 1 Combinada Soquete 360 Em Aço Inoxidável Cromado",
-    preco: 24.66,
+    preco: 30.83,
     categoria: "ferramentas",
     tipo: "vendido",
     destaque: false,
