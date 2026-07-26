@@ -190,6 +190,15 @@ const produtos = [
     link: "https://meli.la/1G5TxTe"
 },
 {
+    nome: "Chave Tigre Com 8 Bocas Universal 48 Em 1 Combinada Soquete 360 Em Aço Inoxidável Cromado",
+    preco: 24.66,
+    categoria: "ferramentas",
+    tipo: "vendido",
+    destaque: false,
+    imagem: "images/produtos/Chave Tigre Com 8 Bocas Universal 48 Em 1 Combinada Soquete 360 Em Aço Inoxidável Cromado.jpeg",
+    link: "https://meli.la/1vDr4Q7"
+},
+{
     nome: "Chave Hidráulica Multifuncional Pias Canos 8x1 Com Nível",
     preco: 27.89,
     categoria: "ferramentas",
