@@ -10,13 +10,13 @@
 const produtos = [
 
 {
-    nome: "Case Adaptador Caddy HD 9,5mm",
-    preco: 19.00,
+    nome: "Localizador De Disjuntor",
+    preco: 256.00,
     categoria: "ferramentas",
     tipo: "oferta",
     destaque: true,
-    imagem: "images/produtos/Caddy.jpeg",
-    link: "https://meli.la/1eBqqHv"
+    imagem: "images/produtos/Localizador De Disjuntor.jpeg",
+    link: "https://meli.la/1X5jAke"
 },
 {
     nome: "Parafusadeira Furadeira De Impacto The Black Tools Profissional TB-21PX 2 Baterias Com Maleta 60Hz Amarelo",
