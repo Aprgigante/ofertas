@@ -64,6 +64,15 @@ const produtos = [
     link: "https://meli.la/18xZoX5"
 },
 {
+    nome: "Moto Serra A Bateria 21v 4000mah 300mm 12 Polegadas Tcs21b The Black Tools",
+    preco: 359.76,
+    categoria: "ferramentas",
+    tipo: "vendido",
+    destaque: true,
+    imagem: "images/produtos/Moto Serra A Bateria 21v 4000mah 300mm 12 Polegadas Tcs21b The Black Tools.jpeg",
+    link: "https://meli.la/32dteGK"
+},
+{
     nome: "Alicate Universal 8 Pol Cromo Vanádio Gedore R28301200 1000V Cor Vermelho",
     preco: 45.00,
     categoria: "eletrica",
