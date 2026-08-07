@@ -47,7 +47,7 @@ const produtos = [
 },
 {
     nome: "Trena Laser Digital 40m Medidor Distância Área e Volume Profissional Alta Precisão Medição Rápida",
-    preco: 119.40,
+    preco: 90.90,
     categoria: "ferramentas",
     tipo: "vendido",
     destaque: true,
@@ -56,12 +56,12 @@ const produtos = [
 },
 {
     nome: "Serra Mármore 4.3/8 1300w C/ 2discos 4100NH3ZX2 Makita",
-    preco: 349.00,
+    preco: 338.00,
     categoria: "ferramentas",
     tipo: "vendido",
     destaque: true,
     imagem: "images/produtos/Serra Mármore 4.38 1300w C 2discos 4100NH3ZX2 Makita.jpeg",
-    link: "https://meli.la/18xZoX5"
+    link: "https://meli.la/2uPFmYi"
 },
 {
     nome: "Moto Serra A Bateria 21v 4000mah 300mm 12 Polegadas Tcs21b The Black Tools",
@@ -290,12 +290,12 @@ const produtos = [
 },
 {
     nome: "Gabarito Copiador Modelador Contornos Azulejo Cerâmica Piso",
-    preco: 41.00,
+    preco: 43.92,
     categoria: "construcao",
     tipo: "vendido",
     destaque: false,
     imagem: "images/produtos/Gabarito Copiador Modelador Contornos Azulejo Cerâmica Piso.jpeg",
-    link: "https://meli.la/1wRJPTU"
+    link: "https://meli.la/1h3aChc"
 },
 {
     nome: "Rodo Desempenadeira Dentada 60 X 12 Cm Dentes De 15mm",
@@ -398,7 +398,7 @@ const produtos = [
 },
 {
     nome: "Martelete Perfurador Rompedor 1000w Sds-plus Com Maleta 110v",
-    preco: 433.10,
+    preco: 439.00,
     categoria: "construcao",
     tipo: "oferta",
     destaque: true,
