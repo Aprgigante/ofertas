@@ -46,13 +46,13 @@ const produtos = [
     link: "https://meli.la/2NjBU5a"
 },
 {
-    nome: "Trena Digital Laser Até 60 Metros Com Nível Alta Precisão",
+    nome: "Trena Laser Digital 40m Medidor Distância Área e Volume Profissional Alta Precisão Medição Rápida",
     preco: 119.40,
     categoria: "ferramentas",
     tipo: "vendido",
     destaque: true,
-    imagem: "images/produtos/Trena Digital Laser Até 60 Metros Com Nível Alta Precisão.jpeg",
-    link: "https://meli.la/1QSvQJJ"
+    imagem: "images/produtos/Trena Laser Digital 40m Medidor Distância Área e Volume Profissional Alta Precisão Medição Rápida.jpeg",
+    link: "https://meli.la/12v72JE"
 },
 {
     nome: "Serra Mármore 4.3/8 1300w C/ 2discos 4100NH3ZX2 Makita",
