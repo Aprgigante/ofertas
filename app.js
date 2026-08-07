@@ -397,12 +397,12 @@ const produtos = [
     link: "https://meli.la/2b9UQcS"
 },
 {
-    nome: "Martelete Perfurador Rompedor Professional 26mm 1100w Sds Plus 4j Com Acessorios Trm-2000 The Black Tools",
+    nome: "Martelete Perfurador Rompedor 1000w Sds-plus Com Maleta 110v",
     preco: 433.10,
     categoria: "construcao",
     tipo: "oferta",
     destaque: true,
-    imagem: "images/produtos/Martelete Rompedor Perfurador Profissional Sds-plus 1100w.jpeg",
+    imagem: "images/produtos/Martelete Perfurador Rompedor 1000w Sds-plus Com Maleta 110v.jpeg",
     link: "https://meli.la/2BpmrQn"
 },
 {
