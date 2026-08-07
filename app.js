@@ -403,7 +403,7 @@ const produtos = [
     tipo: "oferta",
     destaque: true,
     imagem: "images/produtos/Martelete Rompedor Perfurador Profissional Sds-plus 1100w.jpeg",
-    link: "https://meli.la/18c8cku"
+    link: "https://meli.la/2BpmrQn"
 },
 {
     nome: "Pneu Carrinho De Mão Não Fura Maciço Completo Universal Fb",
