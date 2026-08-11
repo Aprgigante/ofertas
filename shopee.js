@@ -13,13 +13,13 @@ const produtosShopee = [
         link: "https://s.shopee.com.br/4Ayy78MTs0"
     },
     {
-    nome: "Localizador De Disjuntor",
-    preco: 256.00,
+    nome: "Projetor HY300 Magcubic 4K HD WiFi Bluetooth Até 150 Polegadas Bivolt Celular TV Box Xbox PS5 PC Cinema Portátil",
+    preco: 181.40,
     categoria: "eletrica",
     tipo: "recomendado",
     destaque: true,
-    imagem: "images/produtos/sh/Localizador De Disjuntor.jpeg",
-    link: "https://meli.la/1X5jAke"
+    imagem: "images/produtos/sh/Projetor HY300 Magcubic 4K HD WiFi Bluetooth Até 150 Polegadas Bivolt Celular TV Box Xbox PS5 PC Cinema Portátil.jpeg",
+    link: "https://s.shopee.com.br/AUt8Qn3EJp"
 },
 {
     nome: "Carregador Portátil Solar 20000mAh Power Bank com Cabos Embutidos Display Digital USB Rápido",
