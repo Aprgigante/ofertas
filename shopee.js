@@ -31,13 +31,13 @@ const produtosShopee = [
     link: "https://s.shopee.com.br/AUt85rYr1t"
 },
     {
-        nome: "Alicate Torquês Turquesa Armador Profissional 12 Aço",
-        preco: 51.31,
+        nome: "Sapateira com Portas Basculantes Vertical Armário para Quarto Sapato Sala Tênis Hall Entrada",
+        preco: 166.39,
         categoria: "construcao",
         tipo: "vendido",
         destaque: true,
-        imagem: "images/produtos/sh/Alicate Torquês Turquesa Armador Profissional 12 Aço.jpeg",
-        link: "https://meli.la/2dK8zdd"
+        imagem: "images/produtos/sh/Sapateira com Portas Basculantes Vertical Armário para Quarto Sapato Sala Tênis Hall Entrada.jpeg",
+        link: "https://s.shopee.com.br/5VUSVFc7XP"
     } // Corrigido: vírgula removida do último objeto
 ];
 
