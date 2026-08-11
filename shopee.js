@@ -22,6 +22,15 @@ const produtosShopee = [
     link: "https://s.shopee.com.br/AUt8Qn3EJp"
 },
 {
+    nome: "Mini Compressor de Ar Portatil Recarregavél Digital USB Calibrador Pneu Envio Imediato",
+    preco: 63.99,
+    categoria: "eletrica",
+    tipo: "recomendado",
+    destaque: true,
+    imagem: "images/produtos/sh/Mini Compressor de Ar Portatil Recarregavél Digital USB Calibrador Pneu Envio Imediato.jpeg",
+    link: "https://s.shopee.com.br/9ANksmmZVt"
+},
+{
     nome: "Carregador Portátil Solar 20000mAh Power Bank com Cabos Embutidos Display Digital USB Rápido",
     preco: 256.00,
     categoria: "eletrica",
