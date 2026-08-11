@@ -21,6 +21,15 @@ const produtosShopee = [
     imagem: "images/produtos/sh/Localizador De Disjuntor.jpeg",
     link: "https://meli.la/1X5jAke"
 },
+{
+    nome: "Carregador Portátil Solar 20000mAh Power Bank com Cabos Embutidos Display Digital USB Rápido",
+    preco: 256.00,
+    categoria: "eletrica",
+    tipo: "recomendado",
+    destaque: true,
+    imagem: "images/produtos/sh/Carregador Portátil Solar 20000mAh Power Bank com Cabos Embutidos Display Digital USB Rápido.jpeg",
+    link: "https://s.shopee.com.br/AUt85rYr1t"
+},
     {
         nome: "Alicate Torquês Turquesa Armador Profissional 12 Aço",
         preco: 51.31,
