@@ -18,7 +18,7 @@ const produtosShopee = [
     categoria: "eletrica",
     tipo: "recomendado",
     destaque: true,
-    imagem: "images/produtos/ml/Localizador De Disjuntor.jpeg",
+    imagem: "images/produtos/sh/Localizador De Disjuntor.jpeg",
     link: "https://meli.la/1X5jAke"
 },
     {
@@ -27,7 +27,7 @@ const produtosShopee = [
         categoria: "construcao",
         tipo: "vendido",
         destaque: true,
-        imagem: "images/produtos/ml/Alicate Torquês Turquesa Armador Profissional 12 Aço.jpeg",
+        imagem: "images/produtos/sh/Alicate Torquês Turquesa Armador Profissional 12 Aço.jpeg",
         link: "https://meli.la/2dK8zdd"
     } // Corrigido: vírgula removida do último objeto
 ];
