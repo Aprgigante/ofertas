@@ -40,6 +40,15 @@ const produtosShopee = [
     link: "https://s.shopee.com.br/AUt85rYr1t"
 },
     {
+    nome: "Adaptador Serra Tico-Tico para Furadeira - Conversor para Corte de Madeira",
+    preco: 8.99,
+    categoria: "eletrica",
+    tipo: "recomendado",
+    destaque: true,
+    imagem: "images/produtos/sh/Adaptador Serra Tico-Tico para Furadeira - Conversor para Corte de Madeira.jpeg",
+    link: "https://s.shopee.com.br/3g2yFk2SRM"
+},
+    {
         nome: "Sapateira com Portas Basculantes Vertical Armário para Quarto Sapato Sala Tênis Hall Entrada",
         preco: 166.39,
         categoria: "construcao",
