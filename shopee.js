@@ -31,6 +31,15 @@ const produtosShopee = [
     link: "https://s.shopee.com.br/9ANksmmZVt"
 },
 {
+    nome: "Cortador De Chapas De Metal Elétrico Para Furadeira Chapa Aço Metal Adaptador",
+    preco: 39.90,
+    categoria: "eletrica",
+    tipo: "recomendado",
+    destaque: true,
+    imagem: "images/produtos/sh/Cortador De Chapas De Metal Elétrico Para Furadeira Chapa Aço Metal Adaptador.jpeg",
+    link: "https://s.shopee.com.br/7KwHidb293"
+},
+{
     nome: "Conversor Adaptador De Esmerilhadeira De Alta Potencia Para Furadeira",
     preco: 99.99,
     categoria: "eletrica",
