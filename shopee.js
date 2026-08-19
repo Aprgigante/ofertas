@@ -75,6 +75,15 @@ const produtosShopee = [
     imagem: "images/produtos/sh/Adaptador Motosserra De Corrente Para Furadeira E Parafusadeira 4 Polegadas - Corte Madeira.jpeg",
     link: "https://s.shopee.com.br/5Arn9G8Cxj"
 },
+  {
+    nome: "Máscara De Soldagem De Óculos Escurecimento Automático Solar TIG MIG MMA MAG KR KC Capacete Elétrico",
+    preco: 44.99,
+    categoria: "eletrica",
+    tipo: "recomendado",
+    destaque: true,
+    imagem: "images/produtos/sh/Máscara De Soldagem De Óculos Escurecimento Automático Solar TIG MIG MMA MAG KR KC Capacete Elétrico.jpeg",
+    link: "https://s.shopee.com.br/9KhM8pNo4W"
+},
     {
     nome: "Adaptador Angular Longo 105 graus Para Furadeira Parafusadeira Metalico Profissional",
     preco: 29.29,
