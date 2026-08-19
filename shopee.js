@@ -12,6 +12,7 @@ const produtosShopee = [
         imagem: "images/produtos/sh/bicicleta.jpeg",
         link: "https://s.shopee.com.br/4Ayy78MTs0"
     },
+
     {
     nome: "Projetor HY300 Magcubic 4K HD WiFi Bluetooth Até 150 Polegadas Bivolt Celular TV Box Xbox PS5 PC Cinema Portátil",
     preco: 181.40,
@@ -21,6 +22,7 @@ const produtosShopee = [
     imagem: "images/produtos/sh/Projetor HY300 Magcubic 4K HD WiFi Bluetooth Até 150 Polegadas Bivolt Celular TV Box Xbox PS5 PC Cinema Portátil.jpeg",
     link: "https://s.shopee.com.br/AUt8Qn3EJp"
 },
+
 {
     nome: "Mini Compressor de Ar Portatil Recarregavél Digital USB Calibrador Pneu Envio Imediato",
     preco: 63.99,
@@ -30,6 +32,7 @@ const produtosShopee = [
     imagem: "images/produtos/sh/Mini Compressor de Ar Portatil Recarregavél Digital USB Calibrador Pneu Envio Imediato.jpeg",
     link: "https://s.shopee.com.br/9ANksmmZVt"
 },
+
 {
     nome: "Cortador De Chapas De Metal Elétrico Para Furadeira Chapa Aço Metal Adaptador",
     preco: 39.90,
@@ -39,6 +42,7 @@ const produtosShopee = [
     imagem: "images/produtos/sh/Cortador De Chapas De Metal Elétrico Para Furadeira Chapa Aço Metal Adaptador.jpeg",
     link: "https://s.shopee.com.br/7KwHidb293"
 },
+
 {
     nome: "Conversor Adaptador De Esmerilhadeira De Alta Potencia Para Furadeira",
     preco: 99.99,
@@ -48,6 +52,17 @@ const produtosShopee = [
     imagem: "images/produtos/sh/Conversor Adaptador De Esmerilhadeira De Alta Potencia Para Furadeira.jpeg",
     link: "https://s.shopee.com.br/1qbLAtI5cn"
 },
+
+{
+    nome: "Tela Auxiliar para Celular MagSafe 4 polegadas HD Monitor Selfie Bluetooth Compatível com iOS e Android",
+    preco: 169.48,
+    categoria: "eletrica",
+    tipo: "recomendado",
+    destaque: true,
+    imagem: "images/produtos/sh/Tela Auxiliar para Celular MagSafe 4 polegadas HD Monitor Selfie Bluetooth Compatível com iOS e Android.jpeg",
+    link: "https://s.shopee.com.br/3VjZAeByQJ"
+},
+
 {
     nome: "Kit 2 Chaves Inglesa Chave De Boca Tubo Mestra Universal 9 A 32mm Multifuncional Ajustável",
     preco: 20.50,
@@ -57,6 +72,7 @@ const produtosShopee = [
     imagem: "images/produtos/sh/Kit 2 Chaves Inglesa Chave De Boca Tubo Mestra Universal 9 A 32mm Multifuncional Ajustável.jpeg",
     link: "https://s.shopee.com.br/70JRLWMjaJ"
 },
+
 {
     nome: "Carregador Portátil Solar 20000mAh Power Bank com Cabos Embutidos Display Digital USB Rápido",
     preco: 256.00,
@@ -66,6 +82,7 @@ const produtosShopee = [
     imagem: "images/produtos/sh/Carregador Portátil Solar 20000mAh Power Bank com Cabos Embutidos Display Digital USB Rápido.jpeg",
     link: "https://s.shopee.com.br/AUt85rYr1t"
 },
+
     {
     nome: "Adaptador Motosserra De Corrente Para Furadeira E Parafusadeira 4 Polegadas - Corte Madeira",
     preco: 39.99,
@@ -75,6 +92,7 @@ const produtosShopee = [
     imagem: "images/produtos/sh/Adaptador Motosserra De Corrente Para Furadeira E Parafusadeira 4 Polegadas - Corte Madeira.jpeg",
     link: "https://s.shopee.com.br/5Arn9G8Cxj"
 },
+
   {
     nome: "Máscara De Soldagem De Óculos Escurecimento Automático Solar TIG MIG MMA MAG KR KC Capacete Elétrico",
     preco: 44.99,
@@ -84,6 +102,7 @@ const produtosShopee = [
     imagem: "images/produtos/sh/Máscara De Soldagem De Óculos Escurecimento Automático Solar TIG MIG MMA MAG KR KC Capacete Elétrico.jpeg",
     link: "https://s.shopee.com.br/9KhM8pNo4W"
 },
+
     {
     nome: "Adaptador Angular Longo 105 graus Para Furadeira Parafusadeira Metalico Profissional",
     preco: 29.29,
@@ -93,6 +112,7 @@ const produtosShopee = [
     imagem: "images/produtos/sh/Adaptador Angular Longo 105 graus Para Furadeira Parafusadeira Metalico Profissional.jpeg",
     link: "https://s.shopee.com.br/4fvWZtsrHp"
 },
+
     {
     nome: "Adaptador Serra Tico-Tico para Furadeira - Conversor para Corte de Madeira",
     preco: 8.99,
@@ -102,6 +122,7 @@ const produtosShopee = [
     imagem: "images/produtos/sh/Adaptador Serra Tico-Tico para Furadeira - Conversor para Corte de Madeira.jpeg",
     link: "https://s.shopee.com.br/3g2yFk2SRM"
 },
+
     {
         nome: "Sapateira com Portas Basculantes Vertical Armário para Quarto Sapato Sala Tênis Hall Entrada",
         preco: 166.39,
