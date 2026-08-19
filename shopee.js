@@ -79,7 +79,7 @@ const produtosShopee = [
     nome: "Adaptador Angular Longo 105 graus Para Furadeira Parafusadeira Metalico Profissional",
     preco: 29.29,
     categoria: "eletrica",
-    tipo: "recomendado",
+    tipo: "vendido",
     destaque: true,
     imagem: "images/produtos/sh/Adaptador Angular Longo 105 graus Para Furadeira Parafusadeira Metalico Profissional.jpeg",
     link: "https://s.shopee.com.br/4fvWZtsrHp"
@@ -88,7 +88,7 @@ const produtosShopee = [
     nome: "Adaptador Serra Tico-Tico para Furadeira - Conversor para Corte de Madeira",
     preco: 8.99,
     categoria: "eletrica",
-    tipo: "recomendado",
+    tipo: "oferta",
     destaque: true,
     imagem: "images/produtos/sh/Adaptador Serra Tico-Tico para Furadeira - Conversor para Corte de Madeira.jpeg",
     link: "https://s.shopee.com.br/3g2yFk2SRM"
