@@ -31,6 +31,15 @@ const produtosShopee = [
     link: "https://s.shopee.com.br/9ANksmmZVt"
 },
 {
+    nome: "Conversor Adaptador De Esmerilhadeira De Alta Potencia Para Furadeira",
+    preco: 99.99,
+    categoria: "eletrica",
+    tipo: "recomendado",
+    destaque: true,
+    imagem: "images/produtos/sh/Conversor Adaptador De Esmerilhadeira De Alta Potencia Para Furadeira.jpeg",
+    link: "https://s.shopee.com.br/1qbLAtI5cn"
+},
+{
     nome: "Carregador Portátil Solar 20000mAh Power Bank com Cabos Embutidos Display Digital USB Rápido",
     preco: 256.00,
     categoria: "eletrica",
