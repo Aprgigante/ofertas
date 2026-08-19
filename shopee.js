@@ -49,6 +49,15 @@ const produtosShopee = [
     link: "https://s.shopee.com.br/1qbLAtI5cn"
 },
 {
+    nome: "Kit 2 Chaves Inglesa Chave De Boca Tubo Mestra Universal 9 A 32mm Multifuncional Ajustável",
+    preco: 20.50,
+    categoria: "eletrica",
+    tipo: "recomendado",
+    destaque: true,
+    imagem: "images/produtos/sh/Kit 2 Chaves Inglesa Chave De Boca Tubo Mestra Universal 9 A 32mm Multifuncional Ajustável.jpeg",
+    link: "https://s.shopee.com.br/70JRLWMjaJ"
+},
+{
     nome: "Carregador Portátil Solar 20000mAh Power Bank com Cabos Embutidos Display Digital USB Rápido",
     preco: 256.00,
     categoria: "eletrica",
