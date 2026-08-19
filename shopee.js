@@ -40,6 +40,15 @@ const produtosShopee = [
     link: "https://s.shopee.com.br/AUt85rYr1t"
 },
     {
+    nome: "Adaptador Motosserra De Corrente Para Furadeira E Parafusadeira 4 Polegadas - Corte Madeira",
+    preco: 39.99,
+    categoria: "eletrica",
+    tipo: "recomendado",
+    destaque: true,
+    imagem: "images/produtos/sh/Adaptador Motosserra De Corrente Para Furadeira E Parafusadeira 4 Polegadas - Corte Madeira.jpeg",
+    link: "https://s.shopee.com.br/5Arn9G8Cxj"
+},
+    {
     nome: "Adaptador Serra Tico-Tico para Furadeira - Conversor para Corte de Madeira",
     preco: 8.99,
     categoria: "eletrica",
