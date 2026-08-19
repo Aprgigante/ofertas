@@ -195,7 +195,7 @@ const produtos = [
     categoria: "ferramentas",
     tipo: "vendido",
     destaque: false,
-    imagem: "images/produtos/Afiador de Brocas Evotek Ferramentas Portátil 2mm a 12,5mm.jpeg",
+    imagem: "images/produtos/ml/Afiador de Brocas Evotek Ferramentas Portátil 2mm a 12,5mm.jpeg",
     link: "https://meli.la/1B5ex3c"
 },
 {
