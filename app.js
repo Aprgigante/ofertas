@@ -123,7 +123,7 @@ const produtos = [
     categoria: "eletrica",
     tipo: "vendido",
     destaque: false,
-    imagem: "images/produtos/Alicate Amperímetro Brasfort.jpeg",
+    imagem: "images/produtos/ml/Alicate Amperímetro Brasfort.jpeg",
     link: "https://meli.la/1oRPamy"
 },
 {
