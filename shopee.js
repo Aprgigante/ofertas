@@ -59,7 +59,7 @@ const produtosShopee = [
     categoria: "eletrica",
     tipo: "recomendado",
     destaque: true,
-    imagem: "images/produtos/sh/Tela Auxiliar para Celular MagSafe 4 polegadas HD Monitor Selfie Bluetooth Compatível com iOS e Android.jpeg",
+    imagem: "images/produtos/sh/Tela Auxiliar para Celular MagSafe 4 HD Monitor Selfie Bluetooth Compatível com iOS e Android.jpeg",
     link: "https://s.shopee.com.br/3VjZAeByQJ"
 },
 
